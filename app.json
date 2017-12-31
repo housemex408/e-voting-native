@@ -1,5 +1,7 @@
 {
   "expo": {
-    "sdkVersion": "23.0.0"
+    "sdkVersion": "23.0.0",
+    "slug": "e-voting-native",
+    "name": "e-voting-native"
   }
 }
